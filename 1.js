@@ -7,3 +7,4 @@ console.log(login);
 
 const fotter="footer added in our Website";
 console.log(fotter);
+const payment="Integreted payment gateway";
