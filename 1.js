@@ -5,6 +5,8 @@ const login="Login page added";
 console.log(login);
 
 
-const fotter="footer added in our Website";
-console.log(fotter);
 const payment="Integreted payment gateway";
+
+
+const upi="Integrated Upi also";
+console.log(upi);
